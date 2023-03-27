@@ -5,3 +5,7 @@
 body{
     background-color: var(--bgcolor);
 }
+
+.nav{
+    padding: 20px;
+}
