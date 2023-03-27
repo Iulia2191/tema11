@@ -6,6 +6,6 @@ body{
     background-color: var(--bgcolor);
 }
 
-.nav{
-    padding: 20px;
+.card{
+    margin-top: 50px;
 }
