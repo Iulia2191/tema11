@@ -17,6 +17,7 @@ body{
 img{
     width: 180px;
     height: 300px;
+    object-fit: cover;
 }
 .logo{
     width: 50px;
