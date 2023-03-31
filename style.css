@@ -5,6 +5,7 @@
 
 body{
     background-color: var(--bgcolor) !important;
+    padding-top: 65px;
 }
 
 .card{
@@ -29,9 +30,11 @@ h1{
     text-align: center;
     padding: 20px;
 }
+
 h2{
     padding: 20px 0 20px 30px;
 }
+
 .navbar-toggler{
     margin-right: 50px;
 }
